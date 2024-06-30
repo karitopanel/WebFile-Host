@@ -20,3 +20,11 @@
 - **1.21 -> https://api.papermc.io/v2/projects/paper/versions/1.21/builds/39/downloads/paper-1.21-39.jar**
 
 
+# **Purpur Versions - Link**
+
+- **1.16.5 -> https://api.purpurmc.org/v2/purpur/1.16.5/1171/download**
+- **1.17.1 -> https://api.purpurmc.org/v2/purpur/1.17.1/1428/download**
+- **1.18.2 -> https://api.purpurmc.org/v2/purpur/1.18.2/1632/download**
+- **1.19.4 -> https://api.purpurmc.org/v2/purpur/1.19.4/1985/download**
+- **1.20.6 -> https://api.purpurmc.org/v2/purpur/1.20.6/2233/download**
+- **1.21 -> https://api.purpurmc.org/v2/purpur/1.21/2251/download**
